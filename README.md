@@ -31,7 +31,7 @@ I'm Loai Eletr, a Bioinformatics researcher specializing in end-to-end transcrip
 - **Single-Cell:** Scanpy, AnnData, scVI/scArches, DoubletFinder, SoupX, CellChat, PyDESeq2, Decoupler.
 - **Bulk RNA-seq:** HISAT2, Salmon, Kallisto, DESeq2, rMATS, DEXSeq, GATK.
 - **Workflow & Cloud:** Nextflow, nf-core, Docker, Conda, Linux/Ubuntu.
-- **Machine Learning:** Deep learning for single-cell genomics (scVI).
+- **Machine Learning:** Deep learning for single-cell transcriptomics (scVI).
 
 ---
 
