@@ -40,6 +40,9 @@ I'm Loai Eletr, a Bioinformatics researcher specializing in end-to-end transcrip
 - **First-Author Research:** Identified **DNASE1** as a pan-cancer diagnostic biomarker and explored **miR-133b** as a functionally conserved tumor suppressor.
 - **Focus Areas:** Tumor Microenvironment (TME), Metastatic Transition, Myeloid-driven Immunosuppression, and Biomarker Discovery.
 
+### 🔍 Peer Review Service
+
+- **Ad Hoc Reviewer:** *Frontiers in Molecular Biosciences* (2026)
 ---
 
 ### 📫 Connect with Me
