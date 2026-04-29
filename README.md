@@ -16,7 +16,7 @@ I'm Loai Eletr, a Bioinformatics researcher specializing in end-to-end transcrip
 
 #### **[CRC-SingleCell-Atlas](https://github.com/LoaiEletr/CRC-SingleCell-Atlas)**
 *High-resolution transcriptomic landscape of Colorectal Cancer and Liver Metastasis.*
-- **Methodology:** Integrated 15 patient samples (Normal, Primary Tumor, Metastasis) using **scVI** and **Harmony** to resolve complex batch effects.
+- **Methodology:** Integrated 15 patient samples (Normal, Primary Tumor, Metastasis) using **scVI** to resolve complex batch effects.
 - **Advanced Analysis:**
     - **Systems Biology:** Modeled the Malignant-Myeloid-Stroma axis (SPP1, MIF, and MK signaling) using **CellChat**.
     - **Transcriptomics:** Performed pseudobulk DE analysis using **PyDESeq2** to ensure statistical rigor at the patient level.
